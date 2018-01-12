@@ -1,25 +1,30 @@
-body, html {
-    margin: 0;
-    padding: 0;
+body,
+html {
+  margin: 0;
+  padding: 0;
 }
 
 * {
-    box-sizing: border-box;
-    font-family: 'Crimson Text';
-    color: #555555;
+  box-sizing: border-box;
+  font-family: "Crimson Text";
+  color: #555555;
 }
 
 a {
-    text-decoration: none;
-    color: #9477D4;
+  text-decoration: none;
+  color: #9477d4;
 
-    &:hover, &:active {
-        color: darken(#9477D4, 10%);
-    }
+  &:hover,
+  &:active {
+    color: darken(#9477d4, 10%);
+  }
 }
 
-h1, h2, h3, h4, h5 {
-    font-family: Karla;
-    margin: 0;
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: Karla;
+  margin: 0;
 }
-
