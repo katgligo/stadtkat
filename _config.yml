@@ -1,0 +1,32 @@
+
+# Setup
+title: stadtkat
+tagline: Definitely coffee. Maybe you.
+url: http://www.stadtkat.com
+# paginate: 5
+baseurl: ""
+
+collections:
+  - images
+
+markdown: kramdown
+excerpt_separator: <!-- fold -->
+
+# Assets
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# About/contact
+author:
+  name: Katarina Gligorijevic
+  twitter: https://twitter.com/mdtusz
+  instagram: https://instagram.com/stadtkat
+  email: kat.gligorijevic@mail.uoft.ca
+
+# Custom vars
+version: 1.0.0
+github:
+  repo:
+
+plugins: [jekyll-paginate, jekyll-admin]
