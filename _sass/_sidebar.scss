@@ -38,4 +38,33 @@
   .networks li {
     display: inline-block;
   }
+
+  @media (max-width: 940px) {
+    padding: 60px 40px;
+    width: 200px;
+  }
+
+  @media (max-width: 760px) {
+    padding: 60px 20px;
+  }
+
+  @media (max-width: 560px) {
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+
+    .title {
+      margin-right: auto;
+    }
+
+    li {
+      font-size: 12px;
+    }
+
+    .links li {
+      display: inline-block;
+    }
+  }
 }
