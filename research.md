@@ -16,9 +16,17 @@ My Master's thesis examines the role of alternative nightlife in the 'creative c
 ![]({{ site.baseurl }}/public/img/defense3.jpg)
 <span class="caption"></span>
 
-I presented my research findings of at the 2016 American Association of Geographers conference in sunny San Francisco, California. Take a look at my poster below, created with the help of Adobe InDesign.
+I presented my research findings of at the 2016 American Association of Geographers conference in sunny San Francisco, California. Take a look at my poster below, created in Adobe InDesign.
 
 ![]({{ site.baseurl }}/public/img/poster.jpg)
 <span class="caption"></span>
 
 Intrigued? Click [here]({{ site.baseurl }}/public/docs/mrp.pdf) to read my thesis in full.
+
+# Ontario Cultural Attractions Fund
+
+![]({{ site.baseurl }}/public/img/newsletter.jpg)
+<span class="caption">My simple, clean re-design of the OCAF biweekly newsletter.</span>
+
+![]({{ site.baseurl }}/public/img/infographic.jpg)
+<span class="caption">A compact 'vital stats' infographic, created in Adobe InDesign. </span>
