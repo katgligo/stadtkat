@@ -25,8 +25,5 @@ Intrigued? Click [here]({{ site.baseurl }}/public/docs/mrp.pdf) to read my thesi
 
 # Ontario Cultural Attractions Fund
 
-![]({{ site.baseurl }}/public/img/newsletter.jpg)
-<span class="caption">My simple, clean re-design of the OCAF biweekly newsletter.</span>
-
-![]({{ site.baseurl }}/public/img/infographic.jpg)
+![]({{ site.baseurl }}/public/img/infographic.png)
 <span class="caption">A compact 'vital stats' infographic, created in Adobe InDesign. </span>
