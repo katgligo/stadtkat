@@ -18,5 +18,7 @@ Intrigued? Click [here]({{ site.baseurl }}/public/docs/mrp.pdf) to read my thesi
 
 # Ontario Cultural Attractions Fund
 
+As part of my freelance work for the Ontario Cultural Attractions Fund (OCAF), I designed a clean MailChimp [template]({{ site.baseurl }}/public/docs/newsletter.html), an infographic, and an interactive map. I currently manage the biweekly newsletter, which serves to promote upcoming OCAF-funded events, as well as communicate announcements and news from the cultural sector.
+
 ![]({{ site.baseurl }}/public/img/infographic.png#expandable)
-<span class="caption">A compact 'vital stats' infographic (Adobe InDesign)</span>
+<span class="caption">A compact, email-friendly 'vital stats' infographic (Adobe InDesign)</span>
