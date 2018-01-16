@@ -9,16 +9,15 @@ My Master's thesis examines the role of alternative nightlife in the 'creative c
 
 ![]({{ site.baseurl }}/public/img/slides.jpg#expandable)
 <span class="caption">A few slides from my Master's defense presentation (Adobe InDesign) </span>
-
 ![]({{ site.baseurl }}/public/img/poster.jpg#expandable)
 <span class="caption">Conference poster presented at the 2016 American Association of Geographers conference in San Francisco (Adobe InDesign)</span>
 
-Intrigued? Click [here]({{ site.baseurl }}/public/docs/mrp.pdf) to read my thesis in full.
+Interested? Click [here]({{ site.baseurl }}/public/docs/mrp.pdf) to read my thesis in full.
+
 
 
 # Ontario Cultural Attractions Fund
 
 As part of my freelance work for the Ontario Cultural Attractions Fund (OCAF), I designed a clean MailChimp [template]({{ site.baseurl }}/public/docs/newsletter.html), an infographic, and an interactive map. I currently manage the biweekly newsletter, which serves to promote upcoming OCAF-funded events, as well as communicate announcements and news from the cultural sector.
-
 ![]({{ site.baseurl }}/public/img/infographic.png#expandable)
 <span class="caption">A compact, email-friendly 'vital stats' infographic (Adobe InDesign)</span>
