@@ -14,6 +14,7 @@
   }
 
   lightbox.addEventListener('click', e => {
+    lightbox.innerHTML = '';
     lightbox.classList.remove('open');
   });
 })();
